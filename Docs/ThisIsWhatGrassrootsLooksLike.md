@@ -1,6 +1,4 @@
 
-- [x] Create readme
-
 
 Working Title: **This is What Grassroots Looks Like** 
 
@@ -24,7 +22,9 @@ subtitle: **catchy subtitle**
 ------
 
 ## Introduction <a name = "introduction" />
+Events over the course of the last decade, and most dramatically over the last year, have shown just how vulnerable our political process has become. Principles we thought reliable are shifting under our feet and melting away like polar ice. Institutions we relied on to support economic stability, education, workers' rights, and environmental protection are perverted or dysfunctional. In short, national and often state governements tend to work against the interests of the people.
 
+The typical response takes one of several forms. One is to promote the political party of choice and canvas to get out the vote. Another is to mobilize in demonstrations against the outrage du jour. Yet another is to sign the petition and give money to the young man or woman with the clipboard who is knocking at your door and appealing to save the \[ _fill in the worthy cause_ \]. None of these is sufficient to put things back in order. 
 
 ## What's keeping us down? <a name = "failures_of_top_down" />
 
