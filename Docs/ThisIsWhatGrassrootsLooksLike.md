@@ -22,13 +22,13 @@ subtitle: **catchy subtitle**
 ------
 
 ## Introduction <a name = "introduction" />
-Events over the course of the last decade, and most dramatically over the last year, have shown just how vulnerable our political process has become. Principles we thought reliable are shifting under our feet and melting away like polar ice. Institutions we relied on to support economic stability, education, workers' rights, and environmental protection are perverted or dysfunctional. In short, national and often state governements tend to work against the interests of the people.
+Events over the course of the last decade, and most dramatically over the last year, have shown just how vulnerable our political process has become. Principles we thought reliable are shifting under our feet and melting away like polar ice. Institutions we relied on to support economic stability, education, workers' rights, and environmental protection are perverted or dysfunctional. In short, national and often state governments tend to work against the interests of the people.
 
 The typical response takes one of several forms:  to promote the political party of choice, to canvas and get out the vote, to mobilize in demonstrations against the outrage du jour, or to sign the petition, and give money, to the young man or woman with the clipboard who is knocking at your door and appealing to save the \[ _fill in the worthy cause_ \]. None of these is sufficient to put things back in order.
 
-Grassroots organizing in its true form is based on volunteer participation in relatively small organizational units. To succeed these units must be networked, they must grow new leaders, they should be capable of adapting to new demands and evolving new strategies.
+Grassroots organizing in its true form is based on volunteer participation in relatively small organizational units. To succeed these units must be networked, they must grow new leaders, and they should be capable of adapting to new demands and evolving new strategies.
 
-Traditionally, this kind of grassroots approach has not been successful in the longer run, because ..
+One may be tempted to dismiss such models as impractical, as unable to stand up against the money and scale of the superPACs, the major parties, and the big national lobbying groups, as being easily marginalized or circumvented, and of tending to have a short life span. But there are clear examples of successful grassroots organizing to meet a pressing need.
 
 ## What's keeping us down? <a name = "failures_of_top_down" />
 For one thing, these solutions often involve top-down structures. By that we mean, they tend to operate at the state and national level and to that extent are by definition no longer grassroots.  They often operate with a large budget just to support the paid staff, which means they must constantly appeal for donations. The unfortunate consequence of that, is that they often compete for your attention, energy, and money, which as we will argue, immediately undermines the good they intend.
