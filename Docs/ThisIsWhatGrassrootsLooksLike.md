@@ -22,26 +22,22 @@ subtitle: **catchy subtitle**
 ------
 
 ## Introduction <a name = "introduction" />
-Events over the course of the last decade, and most dramatically over the last year, have shown just how vulnerable our political process has become. Principles we thought reliable are shifting under our feet and melting away like polar ice. Institutions we relied on to support economic stability, education, workers' rights, and environmental protection are perverted or dysfunctional. In short, national and often state governments tend to work against the interests of the people.
+Events over the course of the last decade, and most dramatically 6 months, have shown just how vulnerable our political process has become. Principles we thought reliable are shifting under our feet and melting away like polar ice. Institutions we relied on to support economic stability, education, workers' rights, and environmental protection are perverted or dysfunctional. In short, national and often state governments tend to work against the interests of the people. And many people feel isolated and/or under siege. Generally things seem out of whack.
 
-The typical response takes one of several forms:  to promote the political party of choice, to canvas and get out the vote, to mobilize in demonstrations against the outrage du jour, or to sign the petition, and give money, to the young man or woman with the clipboard who is knocking at your door and appealing to save the \[ _fill in the worthy cause_ \]. None of these is sufficient to put things back in order.
+ Right now people are energized. They want to do something to promote their vision of a just society. It is obvious that neither of the two parties is capable of nurturing this kind of energy. In fact, they've fairly often proved themselves more a source of disillusionment.
 
-Grassroots organizing in its true form is based on volunteer participation in relatively small organizational units. To succeed these units must be networked, they must grow new leaders, and they should be capable of adapting to new demands and evolving new strategies.
+And while the issue-focused national and state efforts such as ACLU and Planned Parenthood are important allies, they are not by themselves sufficient. The issues demanding engagement are too varied for any single group. More importantly they do not provide the necessary forum to organize and coordinate local responses.
 
-One may be tempted to dismiss such models as impractical, as unable to stand up against the money and scale of the superPACs, the major parties, and the big national lobbying groups, as being easily marginalized or circumvented, and of tending to have a short life span. But there are clear examples of successful grassroots organizing to meet a pressing need.
+Many are turning to coordinated volunteer groups such as those founded on the Indivisible Guide, and those inspired by Michael Moore's 5 things. These new efforts in fact continue the pattern of grassroots response modeled by Black Lives Matter among others.
+
+But these most recent efforts lack much coordination and coherence.  Energy is dissipated by bad scheduling and contradictory messaging. How can they be sustainable unless they can effectively channel their energy.
+
+What we need is a networked model for grassroots organizing, one that provides a sense of community, that collaborates with other similar organizations, that nurtures leadership and gives the individual the means to focus on issues which matter to her most according to her availability and skill set.
+
+
 
 ## What's keeping us down? <a name = "failures_of_top_down" />
-Large scale political and social structures can be worthwhile, in some cases crucial to protecting our rights.  Those such as ACLU or Planned Parenthood that have organized on a well-scoped set of issues are important advocates for advancing the interests of all.
 
- but are not sufficient. Many are indispensable
-
-They tend to be top-down and too big. They tend to operate at the state and/or national level and so cannot sufficiently represent their membership.  They often operate with a large budget to support paid staff and buy media space, which means they must constantly appeal for donations.
-
-This is not to suggest there is no place for such organizations.
-
-The unfortunate consequence, is that such groups often compete amongst themselves for your attention, your energy, and your money. As we will discuss below, no one wins with a competitive model.
-
-Another factor
 
 ## The fallacy of scarce resources <a name = "fallacy_of_scarce_resources" />
 
