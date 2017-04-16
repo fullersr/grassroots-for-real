@@ -32,7 +32,11 @@ Many are turning to coordinated volunteer groups such as those founded on the In
 
 But these most recent efforts lack much coordination and coherence.  Energy is dissipated by bad scheduling and contradictory messaging. How can they be sustainable unless they can effectively channel their energy.
 
-What we need is a networked model for grassroots organizing, one that provides a sense of community, that collaborates with other similar organizations, that nurtures leadership and gives the individual the means to focus on issues which matter to her most according to her availability and skill set.
+What we need is a networked model for grassroots organizing. The basic unit is the home organization, a group that is small enough to truly reflect the interests of its members and to nurture leadership. The home organization must collaborate with other similar organizations to coordinate events, messaging, and to provide a larger talent pool.
+
+The individual must have the tools to engage with a home institution but also to include other organizations, to be able to add events, add a news feed, and be able to track upcoming campaigns.
+
+This document argues that volunteer-based, well networked grassroots organizations are our best chance for correcting the problems we face. It presents the capabilities we think are essential for success. It then goes on to sketch out the architecture, entity model and APIs to promote interoperability and optimal user control.
 
 
 
