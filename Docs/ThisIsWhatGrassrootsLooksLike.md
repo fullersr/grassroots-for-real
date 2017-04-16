@@ -33,7 +33,7 @@ One may be tempted to dismiss such models as impractical, as unable to stand up 
 ## What's keeping us down? <a name = "failures_of_top_down" />
 Large scale political and social structures can be worthwhile, in some cases crucial to protecting our rights.  Those such as ACLU or Planned Parenthood that have organized on a well-scoped set of issues are important advocates for advancing the interests of all.
 
- but are not sufficient. Many are indispensible
+ but are not sufficient. Many are indispensable
 
 They tend to be top-down and too big. They tend to operate at the state and/or national level and so cannot sufficiently represent their membership.  They often operate with a large budget to support paid staff and buy media space, which means they must constantly appeal for donations.
 
