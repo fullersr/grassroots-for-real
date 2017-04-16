@@ -8,7 +8,7 @@ subtitle: **catchy subtitle**
 1.  [Introduction](#introduction)
 1.  [What's keeping us down](#failures_of_top_down)
 1.  [The fallacy of scarce resources](#fallacy_of_scarce_resources)
-1.  [Unrealized power of the grassroots network](#grassroots_network)
+1.  [The unrealized power of the grassroots network](#grassroots_network)
 1.  [The importance of the home group](#home_group)
   1.  [Organizations must collaborate](#org_collaboration)
   1.  [We still need to support big-ticket efforts](#consortium_model)      
@@ -31,9 +31,13 @@ Grassroots organizing in its true form is based on volunteer participation in re
 One may be tempted to dismiss such models as impractical, as unable to stand up against the money and scale of the superPACs, the major parties, and the big national lobbying groups, as being easily marginalized or circumvented, and of tending to have a short life span. But there are clear examples of successful grassroots organizing to meet a pressing need.
 
 ## What's keeping us down? <a name = "failures_of_top_down" />
-Large scale political and social structures can be worthwhile but are not sufficient. They tend to be top-down and too big. They tend to operate at the state and/or national level and so cannot sufficiently represent their membership.  They often operate with a large budget to support paid staff and buy media space, which means they must constantly appeal for donations.
+Large scale political and social structures can be worthwhile, in some cases crucial to protecting our rights.  Those such as ACLU or Planned Parenthood that have organized on a well-scoped set of issues are important advocates for advancing the interests of all.
 
-This is not to suggest there is no place for such organizations. Those  such as ACLU or Planned Parenthood that have organized on a well-scoped set of issues are important advocates for advancing the interests of all.
+ but are not sufficient. Many are indispensible
+
+They tend to be top-down and too big. They tend to operate at the state and/or national level and so cannot sufficiently represent their membership.  They often operate with a large budget to support paid staff and buy media space, which means they must constantly appeal for donations.
+
+This is not to suggest there is no place for such organizations.
 
 The unfortunate consequence, is that such groups often compete amongst themselves for your attention, your energy, and your money. As we will discuss below, no one wins with a competitive model.
 
@@ -41,7 +45,7 @@ Another factor
 
 ## The fallacy of scarce resources <a name = "fallacy_of_scarce_resources" />
 
-## Unrealized power of the grassroots network <a name = "grassroots_network" />
+## The unrealized power of the grassroots network <a name = "grassroots_network" />
 
 ### The importance of the "home" group <a name = "home_group" />
 
