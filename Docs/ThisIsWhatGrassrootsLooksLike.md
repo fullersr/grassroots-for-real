@@ -31,7 +31,7 @@ Grassroots organizing in its true form is based on volunteer participation in re
 One may be tempted to dismiss such models as impractical, as unable to stand up against the money and scale of the superPACs, the major parties, and the big national lobbying groups, as being easily marginalized or circumvented, and of tending to have a short life span. But there are clear examples of successful grassroots organizing to meet a pressing need.
 
 ## What's keeping us down? <a name = "failures_of_top_down" />
-For one thing, these solutions often involve top-down structures. By that we mean, they tend to operate at the state and national level and to that extent are by definition no longer grassroots.  They often operate with a large budget just to support the paid staff, which means they must constantly appeal for donations. The unfortunate consequence of that, is that they often compete for your attention, energy, and money, which as we will argue, immediately undermines the good they intend.
+For one thing, conventional political and social structures tend to be top-down and too big.  They tend to operate at the state and national level making it hard to be truly representative.  They often operate with a large budget to support paid staff and buy media space, which means they must constantly appeal for donations. The unfortunate consequence, is that such groups often compete with each other for your attention, energy, and money.
 
 ## The fallacy of scarce resources <a name = "fallacy_of_scarce_resources" />
 
