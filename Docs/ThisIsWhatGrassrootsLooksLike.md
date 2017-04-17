@@ -44,11 +44,13 @@ Organizations which provided some support for progressives have not kept pace wi
 *   The traditional two parties will probably continue to dominate our electoral process, but they have largely failed to produce candidates who truly represent the interests of the people. In fact, the two party system consistently tends to impede rather than foster progressive change
 *   Individuals no longer have a common fund of reliable, useful information. Important information is too often lost amidst the spinning and pontificating.
 
-People are more isolated and find it harder to organize. they can and have used social media to mitigate the problem, but timelines and Facebook style groups tend to lack the full support people need.
+Thus, grassroots groups promoting democratic change must fight in isolation with scarce resources against fabulously well-endowed superPACs and national parties. At the risk of oversimplification, the grass roots is in a battle with the oligarchy for the soul of the country. 
 
-In short, despite all the fanfare of netroots, the information age has left grassroots groups stranded. Of course there are blogs, web sites, and such, but there is no opportunity for inter-organizational collaboration.  The for the individual to organize resources are themselves scattered among many calendars, many URLs, and many messages in the inbox -- or spam folder. The signal-to-noise ratio is quite small.  So while the political parties and others controlling messaging have made abundant use of information analytics in support of their campaigns, the progressive grassroots world is still struggling.
+The internet is less open these days, but it still offers a solution, and grass roots groups have yet to make good use of it.
 
-The world has moved from static sites to dynamic, user-centered apps.  The work to develop these is often beyond the scope of groups that are largely volunteer-based.
+Despite all the talk of netroots, modern web capabilities have left grassroots groups stranded. Resistance movements are working with Google groups, small sites and independently maintained email lists. Worse still is the lack of any real infrastructure for inter-organizational collaboration. And finally, facilities available for the individual to assemble resources are themselves scattered among many calendars, many URLs, and many messages in the inbox -- or spam folder. The signal-to-noise ratio is quite small.
+
+But the world has moved on to dynamic, user-centered, mobile-friendly apps.  The work to develop these is often beyond the scope of groups that are largely volunteer-base. So grass roots organizations are disadvantaged and must either pony up for hosted capabilities or rely on donated IT time, the latter tending to lead to one-off, poorly maintained solutions. And this doesn't even touch on the topic of big data analytics, which the big money interests have effectively deployed but which are out of the reach currently of the grass roots efforts.
 
 
 
