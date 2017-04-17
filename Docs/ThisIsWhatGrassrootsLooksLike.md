@@ -60,21 +60,21 @@ But the world has moved on to dynamic, user-centered, mobile-friendly apps.  The
 *   Tuesday: Knock, knock, knock. _Do you care about clean lakes? Sign the petition to address pesticide runoff. Could you please donate $20, $50, $80 to Save the Lakes?_
 *   Wednesday: Knock, knock, knock: _Do you care about the honeybees? Sign the petition to control the use of these chemicals. Could you please donate $20, $50, $80 to save the bees?_
 
-You get the picture. Many people care about all of these things, but have little to give and want to plan their gifts carefully.  Why must advocacy groups compete for the individual's money?
+You get the picture. Many people care about all of these things, but have little to give and want to plan their gifts as well as their engagements carefully.  Why must advocacy groups compete for the individual's money?  This kind of thing is adequate at best only when the population is passive and unorganized. But in the current environment, people are desperate to organize, desperate to engage more fully, desperate to have their energy put to effective use.
 
- Obviously gun rights groups compete with gun control groups; anti-choice and pro-choice groups compete. That is perfectly understandable.  But bees and ground water? That just doesn't make sense! This model has worked well enough to sustain those organizations that presumably do some good, but it isn't going to get us far enough going forward
+ Obviously gun rights groups compete with gun control groups; anti-choice groups compete with pro-choice groups. That is perfectly understandable.  But bees and ground water? That just doesn't make sense!
 
- In the above example the bees group is competing with the ground water group, when there interests are in fact convergent. If the individual signs both petitions she will likely be put on both mailing lists leading to countless nuisance messages none of which really help her take meaningful action.
+ In this example the bees group is competing with the ground water group when their interests should in fact be convergent. If the person signs both petitions, she will likely be put on both mailing lists leading to countless nuisance messages none of which really help her take meaningful action.
 
- Even worse, some national groups will not share information with state and local chapters. So, I donate a sum of money and join the National Campaign for Justice (fictional name) and assume that by virtue of this I am connected with the State Campaign for Justice. But no. That may not be true. The national group will not release its membership roles to the local, even on an opt-in basis.
+ Even worse, some national groups will not share information with their state and local chapters. I donate a sum of money and join the National Campaign for Justice (fictional name). By doing so, I assume that connects me with the State Campaign for Justice. But no. That may not be true. At least one national group will not release its membership roles to the local, even on an opt-in basis.
 
  This is a failed model.
 
-
-
-
-
 ## The unrealized power of the grassroots network <a name = "grassroots_network" />
+People have risen in protest many times over the last decade in response to attacks on people's safety and well-being. the Black Lives Matter movements and The Wisconsin resistance movements of 2011 are two such.  Many have proven effective for at least a while, some are still active, all have left a legacy of possibilities. Now, at least for a while, the call to resistance is massive.
+
+People are mobilized again.  Now they need to organize building on what we've learned so far.
+
 
 ### The importance of the "home" group <a name = "home_group" />
 
