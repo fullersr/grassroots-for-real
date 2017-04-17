@@ -7,16 +7,15 @@ subtitle: **catchy subtitle**
 ## Table of Contents
 1.  [Introduction](#introduction)
 1.  [What's keeping us down](#failures_of_top_down)
-1.  [The fallacy of scarce resources](#fallacy_of_scarce_resources)
+1.      [The fallacy of scarce resources](#fallacy_of_scarce_resources)
 1.  [The unrealized power of the grassroots network](#grassroots_network)
-1.  [The importance of the home group](#home_group)
-  1.  [Organizations must collaborate](#org_collaboration)
-  1.  [We still need to support big-ticket efforts](#consortium_model)      
-1.  [The individual has the power](#individual)
+    1.  [The importance of the home group](#home_group)
+    1.  [Organizations must collaborate](#org_collaboration)
+    1.  [We still need to support big-ticket efforts](#consortium_model)
+    1.  [The individual has the power](#individual)
 1.  [Proposal: Build the scaffolding](#proposal)
-1.  [Design considerations](#design)
-  1.  [Support for the organization](#org_support)
-  1.  [Support for the individual](#individua_support)
+    1.  [Support for the organization](#org_support)
+    1.  [Support for the individual](#individua_support)
 1.  [Architectural Considerations](#architecture)
 
 ------
@@ -38,12 +37,23 @@ The individual must have the tools to engage with a home institution but also to
 
 This document argues that volunteer-based, well networked grassroots organizations are our best chance for correcting the problems we face. It presents the capabilities we think are essential for success. It then goes on to sketch out the architecture, entity model and APIs to promote interoperability and optimal user control.
 
-
-
 ## What's keeping us down? <a name = "failures_of_top_down" />
+Organizations which provided some support for progressives have not kept pace with cultural and structural changes in our country. In particular, the shift to online interaction has loosened civic bonds.
+*   Trade unions have been weakened and are often not sufficiently representative
+*   Religious institutions, taken as a whole, do not offer a coherent moral narrative
+*   The traditional two parties will probably continue to dominate our electoral process, but they have largely failed to produce candidates who truly represent the interests of the people. In fact, the two party system consistently tends to impede rather than foster progressive change
+*   Individuals no longer have a common fund of reliable, useful information. Important information is too often lost amidst the spinning and pontificating.
+
+People are more isolated and find it harder to organize. they can and have used social media to mitigate the problem, but timelines and Facebook style groups tend to lack the full support people need.
+
+In short, despite all the fanfare of netroots, the information age has left grassroots groups stranded. Of course there are blogs, web sites, and such, but there is no opportunity for inter-organizational collaboration.  The for the individual to organize resources are themselves scattered among many calendars, many URLs, and many messages in the inbox -- or spam folder. The signal-to-noise ratio is quite small.  So while the political parties and others controlling messaging have made abundant use of information analytics in support of their campaigns, the progressive grassroots world is still struggling.
+
+The world has moved from static sites to dynamic, user-centered apps.  The work to develop these is often beyond the scope of groups that are largely volunteer-based.
 
 
-## The fallacy of scarce resources <a name = "fallacy_of_scarce_resources" />
+
+### The fallacy of scarce resources <a name = "fallacy_of_scarce_resources" />
+
 
 ## The unrealized power of the grassroots network <a name = "grassroots_network" />
 
@@ -56,8 +66,6 @@ This document argues that volunteer-based, well networked grassroots organizatio
 ### The individual has the power <a name = "individual" />
 
 ## Proposal: Build the scaffolding <a name = "proposal" />
-
-## Design considerations <a name = "design" />
 
 ### Support for the organization <a name = "org_support" />
 
