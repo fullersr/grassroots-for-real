@@ -90,7 +90,13 @@ Networking the home groups involves identifying allies. Perhaps the analog here 
 Supporting these capabilities may sound challenging, but what we are talking about here is not that much different from what has already been achieved in collaborative efforts in many other areas such as research, open software development, and open learning systems.
 
 #### Use the consortium model to support big-ticket efforts <a name = "consortium_model" />
+Though we promote the value of the networked home group, we understand the importance of the non-profit organizations that serve progressive interests. We need media and lobbying efforts; we need constitutional lawyers and watchdog groups; we need health and counseling services in our communities. There is an important role for such organizations and their budgets can be large. Also, we recognize that donations are tax deductible.
 
+Nonetheless we believe that an ecosystem that promotes activism based on networked home groups can coordinate well with these non-profits. Perhaps the home group and allies could use polling and forum methods to help individual members prioritize their resources. Perhaps also where individuals perceive unneeded competition, redundancies and inefficiencies among the non profits they can used their home group and affiliates to lobby for improvement making them more responsive.
+
+```
+ need to develop the above better
+```
 
 #### The individual has the power <a name = "individual" />
 
@@ -107,11 +113,12 @@ Supporting these capabilities may sound challenging, but what we are talking abo
 #### Technical precedents/Optional starting points.
 *   Modern approaches to Learning Tech
     *   building on the idea of a teaching and learning ecosystem allowing one to aggregate tools and resources to create an optimal learning environment with rich authoring, scheduling, project, and collaboration capabilities
-    *   Porting the ideas of school, class, project to home organization, issue area, project
+    *   Exploring the possibilities of federated resource consumers and providers a la LTI2
+    *   Applying the ideas of school, class, project to home organization, issue area, project
 *   Existing CMS/CRM platforms
     *   Drupal / CiviCRM
     *   Progressively decoupled Drupal
-*   Drawing on models for federated IAM: SAML and OAuth
+*   Models for federated IAM: SAML and OAuth
 *   Current efforts to support grassroots
     *   https://github.com/november9/wecansavedemocracy
     *   Civi.workks https://civ.works/
