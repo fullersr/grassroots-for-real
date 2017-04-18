@@ -77,11 +77,12 @@ Right now, the call to resistance is massive. People are mobilized.  What we nee
 #### The importance of the "home" group <a name = "home_group" />
 A home organization is crucial to a well-networked grassroots movement. It should be small enough to provide a sense of community and belonging, and it should be large enough to sustain itself. It should offer participants opportunities to engage according to interests, skills, and availability, and it should nurture leadership.
 
-Effective resistance requires action at local, district, and state levels as well as the national level, and it must handle a fairly large number of issues. For this to work, the home organization must operate at the local or at least regional level. And while it is reasonable to expect single issue organizations springing up at the local level, an individual activist would ideally be able to find support for issues she cares most about through the networked home group. rather than having to spread herself out across a multitude of non-networked groups.
+Effective resistance requires action at local, district, and state as well as national levels, action on a fairly large number of issues. For this to work, the home organization must operate at the local or at least regional level. And while it is reasonable to expect single issue organizations springing up at the local level, an individual activist would ideally be able to find support for issues she cares most about through the networked home group. rather than having to spread herself out across a multitude of non-networked groups.
 
 #### The organizations must collaborate <a name = "org_collaboration" />
-A home group must be part of a bigger collaborative network. We understand the model of the national group with its local affiliates (sometimes as noted, poorly integrated). What we are proposing here is fundamentally different, a federated model
+The power of the internet draws from its openness and flexibility. It is exactly the paradigm we are seeking in grassroots organizing.  A home group must be part of a bigger collaborative network. a federation.
 
+We understand the model of the national group with its local affiliates (sometimes poorly integrated, as noted above). We looked to networked (i.e. federated) grassroots to give us the power of numbers hitherto enjoyed only by the national groups, but we want to keep the focus with the home group -- to think globally and act locally.
 
 
 #### We still need to support big-ticket efforts <a name = "consortium_model" />
