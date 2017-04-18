@@ -70,20 +70,19 @@ Many people care about both of these things along with a host of others, but hav
  This is a failed model.
 
 ## The unrealized power of the grassroots network <a name = "grassroots_network" />
-People have risen in protest many times over the last decade in response to attacks on people's safety and well-being. the Black Lives Matter movements and The Wisconsin resistance movements of 2011 are two such.  Many have proven effective for at least a while, some are still active, all have left a legacy of possibilities. Now, at least for a while, the call to resistance is massive.
+People have risen in protest many times over the last decade in response to attacks on people's safety and well-being. the Black Lives Matter movements and The Wisconsin resistance movements of 2011 are two examples.  Many have proven effective for at least a while, some are still active, all have left a legacy of possibilities.
 
-People are mobilized.  What we need now is to organize building on what we've learned so far.
+Right now, the call to resistance is massive. People are mobilized.  What we need is to organize building on what we've learned so far. Networked grassroots organizing is the best approach.
 
 #### The importance of the "home" group <a name = "home_group" />
 A home organization is crucial to a well-networked grassroots movement. It should be small enough to provide a sense of community and belonging, and it should be large enough to sustain itself. It should offer participants opportunities to engage according to interests, skills, and availability, and it should nurture leadership.
 
-While individuals will want to focus their efforts on a few issues, effective resistance requires action at local, district, and state levels as well as the national level. For this to work, the home organization must operate at the local or at least regional level.
-
-While it is reasonable that organizations will spring up concentrating on specific issues, it would seem ideal for a member not to spread herself out across a multitude of such organizations. For this reason, the ideal home organization, would be capable of adequately supporting actions on issues of concern to its members.
-
-Where there is insufficient support within one organization to address a particular issue adequately, the netowrked nature of these organizations ideally would support a sharing of resources and energy.
+Effective resistance requires action at local, district, and state levels as well as the national level, and it must handle a fairly large number of issues. For this to work, the home organization must operate at the local or at least regional level. And while it is reasonable to expect single issue organizations springing up at the local level, an individual activist would ideally be able to find support for issues she cares most about through the networked home group. rather than having to spread herself out across a multitude of non-networked groups.
 
 #### The organizations must collaborate <a name = "org_collaboration" />
+A home group must be part of a bigger collaborative network. We understand the model of the national group with its local affiliates (sometimes as noted, poorly integrated). What we are proposing here is fundamentally different, a federated model
+
+
 
 #### We still need to support big-ticket efforts <a name = "consortium_model" />
 
@@ -107,7 +106,7 @@ Where there is insufficient support within one organization to address a particu
     *   Drupal / CiviCRM
     *   Progressively decoupled Drupal
 *   Drawing on models for federated IAM: SAML and OAuth
-*   Current efforts to support grass roots
+*   Current efforts to support grassroots
     *   https://github.com/november9/wecansavedemocracy
     *   Civi.workks https://civ.works/
 
