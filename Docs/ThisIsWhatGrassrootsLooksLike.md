@@ -62,7 +62,7 @@ Finally, we are still suffering under the fallacy of scarce resources. It is wro
 
 *   Tuesday: Knock, knock, knock. _Do you care about clean lakes? Would you sign this petition to address pesticide runoff. Could you please donate $20, $50, $80 to save the Lakes?_
 *   Wednesday: Knock, knock, knock: _Do you care about the honeybees? Would you sign this petition to control the use of these chemicals. Could you please donate $20, $50, $80 to save the bees?_
-*   Thursday: Knock, knock, knock: _Help us fight gerrymandering. Would you sign this petition for fair redistricting. Could you please donate $20, $50, $80 to preserve fair redistricting?_
+*   Thursday: Knock, knock, knock: _Help us fight gerrymandering. Would you sign this petition for fair redistricting. Could you please donate $20, $50, $80 to get the message out there?_
 
 Many people care about all of these things along with a host of others but have little to give and want to plan their gifts as well as their engagements carefully.  This kind of thing is adequate at best only as a last resort and when the population is passive and unorganized. But in the current environment, people are desperate to organize, desperate to engage more fully, desperate to have their energy (including money) put to effective use. How can signing those petitions and being deluged with more hectoring email help us take meaningful action?
 
