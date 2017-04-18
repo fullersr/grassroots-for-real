@@ -10,7 +10,7 @@ subtitle: **catchy subtitle**
 1.  [The unrealized power of the grassroots network](#grassroots_network)
     1.  [The importance of the home group](#home_group)
     1.  [Organizations must collaborate](#org_collaboration)
-    1.  [We still need to support big-ticket efforts](#consortium_model)
+    1.  [Use the consortium model to support big-ticket efforts](#consortium_model)
     1.  [The individual has the power](#individual)
 1.  [Proposal: Build the scaffolding](#proposal)
     1.  [Support for the organization](#org_support)
@@ -56,14 +56,15 @@ Despite all the talk of netroots, modern web capabilities have left grassroots g
 
 The world has moved on to dynamic, user-centered, mobile-friendly apps.  The work to develop these is often beyond the scope of groups that are largely volunteer-base. This leaves grass roots organizations disadvantaged. They must either pony up for hosted capabilities or rely on donated IT time, the latter tending to lead to one-off, poorly maintained solutions.
 
-Further there is the issue of big data analytics, which the oligarchy has effectively deployed for their own purposes. That capability -- to use it for our own purposes -- is out of the reach of most grass roots efforts.
+Further, there is the issue of big data analytics, which the oligarchy has effectively deployed for their own purposes. That capability -- to use it for our own purposes -- is out of the reach of most grass roots efforts.
 
-Finally, we are still suffering under the fallacy of scarce resources. It is wrong for progressive groups to compete for email addresses and dollars. Doing so undermines grass roots activism. Rather than competing, groups should be working toward mutual support.
+Finally, we are still suffering under the fallacy of scarce resources. It is wrong for progressive groups to compete for email addresses and dollars. Doing so undermines grass roots activism. Rather than competing, groups should be offering mutual support.
 
-*   Tuesday: Knock, knock, knock. _Do you care about clean lakes? Sign the petition to address pesticide runoff. Could you please donate $20, $50, $80 to save the Lakes?_
-*   Wednesday: Knock, knock, knock: _Do you care about the honeybees? Sign the petition to control the use of these chemicals. Could you please donate $20, $50, $80 to save the bees?_
+*   Tuesday: Knock, knock, knock. _Do you care about clean lakes? Would you sign this petition to address pesticide runoff. Could you please donate $20, $50, $80 to save the Lakes?_
+*   Wednesday: Knock, knock, knock: _Do you care about the honeybees? Would you sign this petition to control the use of these chemicals. Could you please donate $20, $50, $80 to save the bees?_
+*   Thursday: Knock, knock, knock: _Help us fight gerrymandering. Would you sign this petition for fair redistricting. Could you please donate $20, $50, $80 to preserve fair redistricting?_
 
-Many people care about both of these things along with a host of others, but have little to give and want to plan their gifts as well as their engagements carefully.  This kind of thing is adequate at best only as a last resort and when the population is passive and unorganized. But in the current environment, people are desperate to organize, desperate to engage more fully, desperate to have their energy (including money) put to effective use. How can signing those petitions and being deluged with more hectoring email help us take meaningful action?
+Many people care about all of these things along with a host of others but have little to give and want to plan their gifts as well as their engagements carefully.  This kind of thing is adequate at best only as a last resort and when the population is passive and unorganized. But in the current environment, people are desperate to organize, desperate to engage more fully, desperate to have their energy (including money) put to effective use. How can signing those petitions and being deluged with more hectoring email help us take meaningful action?
 
  What is worse, some national groups will not share information with their state and local chapters. If a person joins a national progressive group, she would logically assume to participate in local events of that chapter. But, surprisingly, that may not be the case. At least one national group will not release its membership roles to the local, even on an opt-in basis.
 
@@ -77,15 +78,19 @@ Right now, the call to resistance is massive. People are mobilized.  What we nee
 #### The importance of the "home" group <a name = "home_group" />
 A home organization is crucial to a well-networked grassroots movement. It should be small enough to provide a sense of community and belonging, and it should be large enough to sustain itself. It should offer participants opportunities to engage according to interests, skills, and availability, and it should nurture leadership.
 
-Effective resistance requires action at local, district, and state as well as national levels, action on a fairly large number of issues. For this to work, the home organization must operate at the local or at least regional level. And while it is reasonable to expect single issue organizations springing up at the local level, an individual activist would ideally be able to find support for issues she cares most about through the networked home group. rather than having to spread herself out across a multitude of non-networked groups.
+Effective resistance requires action at local, district, and state as well as national levels, and it requires action on a fairly large number of issues. For this to work, the home organization must operate at the local or at least regional level. And while it is reasonable to expect single issue organizations springing up at the local level, an individual activist would ideally be able to find support for issues she cares most about through the networked home group. rather than having to spread herself out across a multitude of non-networked groups.
 
 #### The organizations must collaborate <a name = "org_collaboration" />
-The power of the internet draws from its openness and flexibility. It is exactly the paradigm we are seeking in grassroots organizing.  A home group must be part of a bigger collaborative network. a federation.
+The power of the internet draws from its openness and flexibility. It is resilient, adaptive, capable of operating at great scale. It is exactly the paradigm we are seeking in grassroots organizing.  What we are talking about here is a federated network, a different structure from that of the national group with its local affiliates (sometimes poorly integrated, as noted above). Federation gives us the power of numbers hitherto enjoyed only by the national groups while keeping the focus with the home group -- to think globally and act locally.
 
-We are not talking here of the national group with its local affiliates (sometimes poorly integrated, as noted above). Instead of that, we look to a networked (i.e. federated) grassroots structure to give us the power of numbers hitherto enjoyed only by the national groups, but we want to keep the focus with the home group -- to think globally and act locally.
+To examine the need for federation, we should start with the home group.  We have argued that it is an essential base for organizing, but without federation, i.e., without being networked with other similar groups, it tends to be ineffective. Even in a small city such as Madison, we have seen any number of new grassroots groups spring up. Some following the Indivisible Guide, others spun up from ACLU People Power initiative, and some from other sources. That they emerged so rapidly is wonderful, that they have not yet started collaborating effectively is a growing problem. Marches, town halls, letter-writing campaigns could be much more effective with better coordination.
 
+Networking the home groups involves identifying allies. Perhaps the analog here is "friending". Alliances can be ad hoc based on issues or campaigns or they can be more longstanding. Through these alliances a network can be built. Allies will need a forum for coordinating actions and sharing resources.  They will need a shared calendar. They will also need a way for shared announcements, blog posts, etc. At the same time the network of federated groups should uphold the privacy and consent of its members.
 
-#### We still need to support big-ticket efforts <a name = "consortium_model" />
+Supporting these capabilities may sound challenging, but what we are talking about here is not that much different from what has already been achieved in collaborative efforts in many other areas such as research, open software development, and open learning systems.
+
+#### Use the consortium model to support big-ticket efforts <a name = "consortium_model" />
+
 
 #### The individual has the power <a name = "individual" />
 
