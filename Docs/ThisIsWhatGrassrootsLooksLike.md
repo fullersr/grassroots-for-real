@@ -11,7 +11,7 @@ subtitle: **catchy subtitle**
     1.  [The importance of the home group](#home_group)
     1.  [Organizations must collaborate](#org_collaboration)
     1.  [Use the consortium model to support big-ticket efforts](#consortium_model)
-    1.  [The individual has the power](#individual)
+    1.  [It ultimately comes down to the individual](#individual)
 1.  [Proposal: Build the scaffolding](#proposal)
     1.  [Support for the organization](#org_support)
     1.  [Support for the individual](#individua_support)
@@ -31,15 +31,15 @@ Many are turning to volunteer groups such as those founded on the Indivisible Gu
 
 What we need is a networked model for grassroots organizing.
 
-The basic unit is the home organization, a group that is small enough to truly reflect the interests of its members and to nurture leadership. The home organization must collaborate with other similar organizations to coordinate messaging and events and to provide a larger talent pool.  The home organization serves as a forum for each member to engage. It must provide members with the ability to track events, to initiate actions and to contribute to ongoing efforts.
+The basic unit is the home group, a group that is small enough to truly reflect the interests of its members and to nurture leadership. The home organization must collaborate with other similar organizations to coordinate messaging and events and to provide a larger talent pool.  The home organization serves as a forum for each member to engage. It must provide members with the ability to track events, to initiate actions and to contribute to ongoing efforts.
 
-The individual activist must also have the tools to engage with other organizations according to specific interests: to be able aggregate events and news feed from those organizations and to track and participate in upcoming campaigns.
+The individual activist must also have the tools to engage with other groups according to specific interests: to be able aggregate events and news feed from those organizations and to track and participate in upcoming campaigns.
 
-Finally, it should support the ability for home organizations to coordinate funding of larger efforts so that those efforts need not compete with grass roots but to draw from that energy.
+Finally, the networked home group could play a role in funding of larger efforts so that those efforts need not compete with grass roots but to draw from that energy.
 
 This document argues that volunteer-based, well networked grassroots organizations are our best chance for correcting the problems we face. It presents the capabilities we think are essential for success. It then goes on to sketch out the architecture, entity model and APIs to promote interoperability and optimal user control.
 
-In addition for arguing the case for well-networked grassroots organization, we explore capabilities needed and possible IT approaches to facilitating its growth.
+In addition for arguing the case for well-networked grassroots groups, we explore capabilities needed and possible IT approaches to facilitating its growth.
 
 ## What's keeping us down? <a name = "failures_of_top_down" />
 Progressive organizations have not kept pace with cultural and structural changes in our country. In particular, the shift to online interaction has loosened civic bonds.
@@ -98,7 +98,12 @@ Nonetheless we believe that an ecosystem that promotes activism based on network
  need to develop the above better
 ```
 
-#### The individual has the power <a name = "individual" />
+#### It ultimately come down to the individual <a name = "individual" />
+The individual activist is the one to determine the nature of her engagement: on what issues to focus, how much time to expend, in what capacity. As we have argued, the home group is the best way to help members hone in on what is important, to get the support they need, and to be most effective. But the individual activist must be able on her own to tailor her activism according to her needs.
+
+ She may want to engage in specific projects through the home group and filter out others. She may want to start a new project and recruit participants. She may want to include in her kit some tools and resources offered outside of her home group.
+
+ In all cases she should she is getting just the information she wants and needs in order to engage effectively.
 
 ## Proposal: Build the scaffolding <a name = "proposal" />
 
