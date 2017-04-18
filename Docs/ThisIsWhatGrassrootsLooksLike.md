@@ -27,7 +27,7 @@ Events over the course of the last decade and most dramatically over the last 6 
 
 And while the issue-focused national and state efforts such as ACLU and Planned Parenthood are important allies, they are not by themselves sufficient. The issues demanding engagement are too varied for any single group. More importantly they do not provide the necessary forum to organize and coordinate local responses. They cannot replace the need for effective grass roots organizing.
 
-Many are turning to coordinated volunteer groups such as those founded on the Indivisible Guide, and those inspired by Michael Moore's 5 things. These new efforts continue the pattern of grassroots response modeled by Black Lives Matter among others. But these most recent efforts lack much coordination and coherence.  Energy is dissipated by bad scheduling and contradictory messaging. How can they be sustainable unless they can effectively channel their energy.
+Many are turning to volunteer groups such as those founded on the Indivisible Guide, and those inspired by Michael Moore's 5 things. These new efforts continue the pattern of grassroots response modeled by Black Lives Matter among others. But these most recent efforts lack much coordination and coherence.  Energy is dissipated by bad scheduling and contradictory messaging. How can they be sustainable unless they can effectively channel their energy.
 
 What we need is a networked model for grassroots organizing.
 
