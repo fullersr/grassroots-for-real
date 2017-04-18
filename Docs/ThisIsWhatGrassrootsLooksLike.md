@@ -16,6 +16,7 @@ subtitle: **catchy subtitle**
     1.  [Support for the organization](#org_support)
     1.  [Support for the individual](#individua_support)
 1.  [Architectural Considerations](#architecture)
+1.  [Appendix](#appendix)
 
 ------
 
@@ -96,13 +97,17 @@ Where there is insufficient support within one organization to address a particu
 
 ## Architectural Considerations <a name = "architecture" />
 
-## Technical precedents/Optional starting points.
+## Appendix <a name = "appendix" />
+
+#### Technical precedents/Optional starting points.
 *   Modern approaches to Learning Tech
     *   building on the idea of a teaching and learning ecosystem allowing one to aggregate tools and resources to create an optimal learning environment with rich authoring, scheduling, project, and collaboration capabilities
     *   Porting the ideas of school, class, project to home organization, issue area, project
-*   Drupal / CiviCRM
-*   Progressively decoupled Drupal
-*   SAML and OAuth
-*   https://github.com/november9/wecansavedemocracy
-*
+*   Existing CMS/CRM platforms
+    *   Drupal / CiviCRM
+    *   Progressively decoupled Drupal
+*   Drawing on models for federated IAM: SAML and OAuth
+*   Current efforts to support grass roots
+    *   https://github.com/november9/wecansavedemocracy
+    *   Civi.workks https://civ.works/
 
