@@ -58,8 +58,7 @@ The world has moved on to dynamic, user-centered, mobile-friendly apps.  The wor
 
 Further there is the issue of big data analytics, which the oligarchy has effectively deployed for their own purposes. That capability -- to use it for our own purposes -- is out of the reach of most grass roots efforts.
 
-### The fallacy of scarce resources <a name = "fallacy_of_scarce_resources" />
-It is wrong for progressive groups to compete for email addresses and dollars. Doing that undermines grass roots activism.
+Finally, we are still suffering under the fallacy of scarce resources. It is wrong for progressive groups to compete for email addresses and dollars. Doing so undermines grass roots activism. Rather than competing, groups should be working toward mutual support.
 
 *   Tuesday: Knock, knock, knock. _Do you care about clean lakes? Sign the petition to address pesticide runoff. Could you please donate $20, $50, $80 to save the Lakes?_
 *   Wednesday: Knock, knock, knock: _Do you care about the honeybees? Sign the petition to control the use of these chemicals. Could you please donate $20, $50, $80 to save the bees?_
