@@ -82,7 +82,7 @@ Effective resistance requires action at local, district, and state as well as na
 #### The organizations must collaborate <a name = "org_collaboration" />
 The power of the internet draws from its openness and flexibility. It is exactly the paradigm we are seeking in grassroots organizing.  A home group must be part of a bigger collaborative network. a federation.
 
-We understand the model of the national group with its local affiliates (sometimes poorly integrated, as noted above). We looked to networked (i.e. federated) grassroots to give us the power of numbers hitherto enjoyed only by the national groups, but we want to keep the focus with the home group -- to think globally and act locally.
+We understand the model of the national group with its local affiliates (sometimes poorly integrated, as noted above). We look to networked (i.e. federated) grassroots to give us the power of numbers hitherto enjoyed only by the national groups, but we want to keep the focus with the home group -- to think globally and act locally.
 
 
 #### We still need to support big-ticket efforts <a name = "consortium_model" />
