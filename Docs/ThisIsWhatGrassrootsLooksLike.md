@@ -12,7 +12,7 @@ subtitle: **catchy subtitle**
     1.  [Organizations must collaborate](#org_collaboration)
     1.  [Use the consortium model to support big-ticket efforts](#consortium_model)
     1.  [It ultimately comes down to the individual](#individual)
-1.  [Proposal: Build the scaffolding](#proposal)
+1.  [Collaborate, borrow, and build to set up the scaffolding](#proposal)
     1.  [Support for the organization](#org_support)
     1.  [Support for the individual](#individua_support)
 1.  [Architectural Considerations](#architecture)
@@ -103,9 +103,16 @@ The individual activist is the one to determine the nature of her engagement: on
 
  She may want to engage in specific projects through the home group and filter out others. She may want to start a new project and recruit participants. She may want to include in her kit some tools and resources offered outside of her home group.
 
- In all cases she should she is getting just the information she wants and needs in order to engage effectively.
+ In all cases she should be getting just the information she wants and needs in order to engage effectively.
 
-## Proposal: Build the scaffolding <a name = "proposal" />
+## Collaborate, borrow, and build to set up the scaffolding <a name = "proposal" />
+We want to promote a collaboration of IT activists to identify and build out the components to support a vibrant grassroots ecosystem. Some of these components exist in other contexts, so often it will be a matter of re-purposing them rather than building them from scratch.
+
+Recent work in learning technology, especially for secondary and post-secondary education might be one such area from which to draw. The notions of empowerment, collaboration, projects (substitute campaigns) and adaptive behavior are already the focus in this area. And recent work has shifted more to a supporting a teaching and learning ecosystem by providing a set of standards-based interoperable tools and resources allowing the learner (substitute activist) and the instructor (substitute issue-focused sub-group) to assemble what is needed to suit their purposes.  So we should look to them for material and inspiration.
+
+Open source CMS applications such as Drupal and CRM applications such as CiviCRM might prove useful, but they will need to be modified to support inter-group networking and to give the individual activist more latitude to assemble her own dashboard and calendar.
+
+Open source portal efforts such as uPortal 
 
 #### Support for the organization <a name = "org_support" />
 
