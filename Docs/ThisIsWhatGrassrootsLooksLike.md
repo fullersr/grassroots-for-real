@@ -12,7 +12,7 @@ subtitle: **catchy subtitle**
     1.  [Organizations must collaborate](#org_collaboration)
     1.  [Use the consortium model to support big-ticket efforts](#consortium_model)
     1.  [It ultimately comes down to the individual](#individual)
-1.  [Collaborate, borrow, and build to set up the scaffolding](#proposal)
+1.  [Setting up the scaffolding: collaborate, borrow, and build](#proposal)
     1.  [Support for the organization](#org_support)
     1.  [Support for the individual](#individua_support)
 1.  [Architectural Considerations](#architecture)
@@ -105,18 +105,36 @@ The individual activist is the one to determine the nature of her engagement: on
 
  In all cases she should be getting just the information she wants and needs in order to engage effectively.
 
-## Collaborate, borrow, and build to set up the scaffolding <a name = "proposal" />
+## Setting up the scaffolding: collaborate, borrow, and build <a name = "proposal" />
 We want to promote a collaboration of IT activists to identify and build out the components to support a vibrant grassroots ecosystem. Some of these components exist in other contexts, so often it will be a matter of re-purposing them rather than building them from scratch.
+
+
+#### Support for the organization <a name = "org_support" />
+The home group needs to perform at least the following tasks:
+*   create content
+*   create events
+*   Manage campaigns/projects
+*   track members
+*   manage roles and permissions
+*   provide forums for users
+*   identify and manage issues
+*   establish and manage alliances with other groups
+*   publish and subscribe content and events related to issues.
 
 Recent work in learning technology, especially for secondary and post-secondary education might be one such area from which to draw. The notions of empowerment, collaboration, projects (substitute campaigns) and adaptive behavior are already the focus in this area. And recent work has shifted more to a supporting a teaching and learning ecosystem by providing a set of standards-based interoperable tools and resources allowing the learner (substitute activist) and the instructor (substitute issue-focused sub-group) to assemble what is needed to suit their purposes.  So we should look to them for material and inspiration.
 
-Open source CMS applications such as Drupal and CRM applications such as CiviCRM might prove useful, but they will need to be modified to support inter-group networking and to give the individual activist more latitude to assemble her own dashboard and calendar.
-
-Open source portal efforts such as uPortal 
-
-#### Support for the organization <a name = "org_support" />
+Open source CMS applications such as Drupal and CRM applications such as CiviCRM might prove useful to give us content and event management capabilities, but they will need to be modified to support inter-group networking and to give the individual activist more latitude to assemble her own dashboard and calendar.
 
 #### Support for the individual <a name = "individual_support" />
+The individual activist needs to perform at least these tasks:
+*   Join and withdraw from a group
+*   Create and update profile information (including privacy requirements)
+*   Participate in the activities of the home group
+*   Establish and manage connections beyond that to the home group
+*   Maintain a calendar filtered on issues and other criteria that she sets
+
+A portal type home space would suit these needs, one that can be configured by the user. This could provide a dashboard for activities in the home organization as well as with other groups.  A user should be able to access her resources on mobile as well as laptop/desktop devices.
+
 
 ## Architectural Considerations <a name = "architecture" />
 
