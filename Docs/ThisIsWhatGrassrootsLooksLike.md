@@ -142,6 +142,12 @@ There are also a fair number of projects focused on mobile-friendly portal capab
 
 ## Architectural Considerations <a name = "architecture" />
 
+##### Identity and access management middleware and/or APIs
+
+##### IMSGlobal LTI v2 or other similar support for linking resources
+
+##### Network graph capabilities to identify larger alliances
+
 ## Appendix <a name = "appendix" />
 
 #### Technical precedents/Optional starting points.
