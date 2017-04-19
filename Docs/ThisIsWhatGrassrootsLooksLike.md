@@ -133,7 +133,11 @@ The individual activist needs to perform at least these tasks:
 *   Establish and manage connections beyond that to the home group
 *   Maintain a calendar filtered on issues and other criteria that she sets
 
-A portal type home space would suit these needs, one that can be configured by the user. This could provide a dashboard for activities in the home organization as well as with other groups.  A user should be able to access her resources on mobile as well as laptop/desktop devices.
+A portal type home space would suit these needs well, one that can be configured by the user. This could provide a dashboard for activities in the home organization as well as with other groups.  A user should be able to access her resources on mobile as well as laptop/desktop devices.
+
+As for the home org, the work in learning technology may provide a starting point to meet the needs of the individual. One branch of this work has focused on the personal learning environment (PLE), which explores the methods for the learner (or in this case activist) to assemble her own tools and resources as needed.
+
+There are also a fair number of projects focused on mobile-friendly portal capabilities. Apereo uPortal is one such
 
 
 ## Architectural Considerations <a name = "architecture" />
