@@ -142,24 +142,24 @@ There are also a fair number of projects focused on mobile-friendly portal capab
 
 ## Architectural Considerations <a name = "architecture" />
 
+```
+ More work to do here
+```
+
 ##### Identity and access management middleware and/or APIs
 
 ##### IMSGlobal LTI v2 or other similar support for linking resources
 
 ##### Network graph capabilities to identify larger alliances
 
+----
+.
+
 ## Appendix <a name = "appendix" />
 
 #### Technical precedents/Optional starting points.
-*   Modern approaches to Learning Tech
-    *   building on the idea of a teaching and learning ecosystem allowing one to aggregate tools and resources to create an optimal learning environment with rich authoring, scheduling, project, and collaboration capabilities
-    *   Exploring the possibilities of federated resource consumers and providers a la LTI2
-    *   Applying the ideas of school, class, project to home organization, issue area, project
-*   Existing CMS/CRM platforms
-    *   Drupal / CiviCRM
-    *   Progressively decoupled Drupal
-*   Models for federated IAM: SAML and OAuth
-*   Current efforts to support grassroots
-    *   https://github.com/november9/wecansavedemocracy
-    *   Civi.workks https://civ.works/
+
+Current efforts to support grassroots
+*   https://github.com/november9/wecansavedemocracy
+*   Civi.workks https://civ.works/
 
