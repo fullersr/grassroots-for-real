@@ -52,9 +52,9 @@ Thus, grassroots groups promoting democratic change must fight in isolation with
 
 The internet is less open these days, but it still offers a solution, and grass roots groups have yet to make good use of it.
 
-Despite all the talk of netroots, modern web capabilities have left grassroots groups stranded. Resistance movements are working with Google groups, small sites and independently maintained email lists. These are useful but insufficient. They lack any real infrastructure for inter-organizational collaboration, and facilities available for the individual to assemble resources are themselves scattered among many calendars, many URLs, and many messages in the inbox. The signal-to-noise ratio is quite small.
+Despite all the talk of netroots, modern web capabilities have left grassroots groups stranded. Resistance movements are working with Facebook, Twitter, Google groups, small sites and independently maintained email lists. These are useful but insufficient. They lack any real infrastructure for inter-organizational collaboration, and facilities available for the individual to assemble resources are themselves scattered among many calendars, many URLs, and many messages in the inbox. The signal-to-noise ratio is quite low.
 
-The world has moved on to dynamic, user-centered, mobile-friendly apps.  The work to develop these is often beyond the scope of groups that are largely volunteer-base. This leaves grass roots organizations disadvantaged. They must either pony up for hosted capabilities or rely on donated IT time, the latter tending to lead to one-off, poorly maintained solutions.
+The world has moved on to dynamic, user-centered, mobile-friendly apps.  The work to develop these is often beyond the scope of groups that are largely volunteer-base. This leaves grass roots organizations disadvantage. They must either pony up for hosted capabilities or rely on donated IT time, the latter tending to lead to one-off, poorly maintained solutions.
 
 Further, there is the issue of big data analytics, which the oligarchy has effectively deployed for their own purposes. That capability -- to use it for our own purposes -- is out of the reach of most grass roots efforts.
 
