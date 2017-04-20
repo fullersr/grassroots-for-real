@@ -23,7 +23,7 @@ subtitle: **catchy subtitle**
 ## Introduction <a name = "introduction" />
 Events over the course of the last decade and most dramatically over the last 6 months have shown just how vulnerable our democratic institutions have become. Principles we thought reliable are shifting under our feet and melting away like polar ice. Institutions we relied on to support economic stability, education, workers' rights, and environmental protection are perverted or dysfunctional. In short, national and often state governments tend to work against the interests of the people they are supposed to represent, leaving them to feel isolated and/or under siege. Things seem out of whack.
 
- Right now people are energized in resistance. They want to do something to promote their vision of a just society. It is obvious that neither of the two parties is capable of nurturing this kind of energy. In fact, they have fairly often proved themselves more of a hindrance
+ Right now people are energized in resistance. They want to do something to promote their vision of a just society. It is obvious that neither of the two parties is capable of nurturing this kind of energy. In fact, they have fairly often proven themselves more of a hindrance
 
 And while the issue-focused national and state efforts such as ACLU and Planned Parenthood are important allies, they are not by themselves sufficient. The issues demanding engagement are too varied for any single group. More importantly they do not provide the necessary forum to organize and coordinate local responses. They cannot replace the need for effective grass roots organizing.
 
