@@ -1,6 +1,6 @@
 
 
-Working Title: **This is What Grassroots Looks Like** 
+Working Title: **This is What Grassroots Looks Like**
 
 subtitle: **catchy subtitle**
 
@@ -8,10 +8,6 @@ subtitle: **catchy subtitle**
 1.  [Introduction](#introduction)
 1.  [What's keeping us down](#failures_of_top_down)
 1.  [The unrealized power of the grassroots network](#grassroots_network)
-    1.  [The importance of the home group](#home_group)
-    1.  [Organizations must collaborate](#org_collaboration)
-    1.  [Use the consortium model to support big-ticket efforts](#consortium_model)
-    1.  [It ultimately comes down to the individual](#individual)
 1.  [Setting up the scaffolding: collaborate, borrow, and build](#proposal)
     1.  [Support for the home group](#org_support)
     1.  [Support for the individual](#individua_support)
@@ -23,44 +19,40 @@ subtitle: **catchy subtitle**
 ## Introduction <a name = "introduction" />
 Events over the course of the last decade and most dramatically over the last 6 months have shown just how vulnerable our democratic institutions have become. Principles we thought reliable are shifting under our feet and melting away like polar ice. Institutions we relied on to support economic stability, education, workers' rights, and environmental protection are being undermined. In short, national and often state governments are tending to work against the interests of the people they are supposed to represent, leaving us to feel isolated and/or under siege. Things seem out of whack.
 
- Right now people are energized in resistance. They want to do something to promote their vision of a just society. It has become clear, though, that neither of the two parties is capable of nurturing this kind of energy. In fact, they have fairly often proven themselves more of a hindrance
+ Right now people are energized in resistance. They want to do something to promote their vision of a just society. The greatest energy is emerging in the grass roots structures.
 
-And while the issue-focused national and state efforts such as ACLU and Planned Parenthood are important allies, they are not by themselves sufficient. The issues demanding engagement are too varied for any single group. More importantly they do not provide the necessary forum to organize and coordinate local responses. They cannot replace the need for effective grass roots organizing.
+  It has become clear that neither of the two parties is capable of nurturing this kind of energy. In fact, they have fairly often proven themselves more of a hindrance. And while the issue-focused national and state efforts such as ACLU and Planned Parenthood are important allies, they are not by themselves sufficient. The issues demanding engagement are too varied for any single group. More importantly they do not provide the necessary forum to organize and coordinate local responses. They cannot replace the need for effective grass roots organizing.
 
-Many are turning to volunteer groups such as those founded on the Indivisible Guide, and those inspired by Michael Moore's 5 things. These new efforts continue the pattern of grassroots activism modeled by Black Lives Matter among others. But these most recent efforts lack much coordination and coherence.  Energy is dissipated by bad scheduling and contradictory messaging. How can they be sustainable unless they can effectively channel their energy.
+Many are turning to volunteer groups such as those founded on the Indivisible Guide. These new efforts continue the pattern of grassroots activism modeled by Black Lives Matter among others. But these most recent efforts lack much coordination and coherence.  Energy is dissipated by bad scheduling and contradictory messaging. How can they be sustainable unless they can effectively channel their energy.
 
 What we need is a networked model for grassroots organizing.
 
-Individual activists benefit from working within a home group, a group that is small enough to truly reflect the interests of its members and to nurture leadership. It serves as a forum for each member to engage. It must provide members with the ability to track events, to initiate actions and to contribute to ongoing efforts. It must be able to network with other allied groups to coordinate messaging and events and to provide a larger talent pool.
+Individual activists benefit from working within a home group, a group that is small enough to reflect the interests of its members and to nurture leadership. The home group serves as a forum for each member to engage. It must provide members with the ability to track events, to initiate actions and to contribute to ongoing efforts. And, very importantly, It must be able to network with other allied groups to coordinate messaging and events and to provide a larger talent pool.
 
-The individual activist must be able to network within and beyond the home group, to engage with other groups according to specific interests: to be able aggregate events and news feed from those organizations and to track and participate in upcoming campaigns.
+The individual activist must be able to engage within and beyond the home group according to specific interests: to launch campaigns and participate in events from within the home groups and to track campaigns and events taking place elsewhere.
 
-When it comes to working with the larger, more expensive efforts, the networked home group could play a role in funding them so that they need not compete with grass roots but to draw from that energy.
+When it comes to working with the larger, more expensive efforts, the networked home group could play a role in funding them so that they need not compete with grass roots groups but draw from their energy.
 
-This document argues that volunteer-based, well networked grassroots organizations are our best chance for correcting the problems we face. It presents the capabilities we think are essential for success. It then goes on to sketch out the architecture, entity model and APIs to promote interoperability and optimal user control.
-
-In addition for arguing the case for well-networked grassroots groups, we explore capabilities needed and possible IT approaches to facilitating its growth.
+This document argues that volunteer-based, well networked grassroots groups are our best chance for correcting the problems we face. It presents the capabilities we think are essential for success. It  goes on to sketch out the architecture, entity model and APIs to promote interoperability and optimal user control. And it then it explores possible IT approaches to facilitate the growth of a robust grassroots ecosystem.
 
 ## What's keeping us down? <a name = "failures_of_top_down" />
-Progressive organizations have not kept pace with cultural and structural changes in our country.
+Progressive organizations, at least in the USA, have not kept pace with cultural and structural changes. The reasons should be well understood by now.
 
-The shift to online interaction has loosened civic bonds.
+The changes to the economy and to common forms of social interaction have loosened civic bonds.
 *   Trade unions have been weakened and are often not sufficiently representative
 *   Religious institutions, taken as a whole, do not offer a coherent moral narrative
 *   The traditional two parties will probably continue to dominate our electoral process, but they have largely failed to produce candidates who truly represent the interests of the people. In fact, the two party system consistently tends to impede rather than foster progressive change
 *   Individuals no longer have a common fund of reliable, useful information. Important information is too often lost amidst the spinning and pontificating.
 
-This often leaves individuals or stand-alone groups working for democratic change fighting in isolation with scarce resources against fabulously well-endowed superPACs and national parties. At the risk of oversimplification, the grass roots is in a battle with the oligarchy for the soul of the country.
+So, individuals or stand-alone groups working for democratic change fight in isolation with scarce resources against fabulously well-endowed superPACs and national parties. At the risk of oversimplification, the grass roots is in a battle with the oligarchy for the soul of the country.
 
-The internet is less open these days, but it still offers a solution, and grass roots groups have yet to make good use of it.
+Despite all the talk about the "netroots", modern web capabilities have left grassroots groups stranded. The internet is less open these days, but it still offers a solution, and grass roots groups have yet to make good use of it. Resistance movements are working with Facebook, Twitter, Google groups, small sites and independently maintained email lists. These are useful but insufficient. They lack any real infrastructure for inter-organizational collaboration. Facilities available for the individual to assemble resources are themselves scattered among many calendars, many URLs, and many messages in the inbox.
 
-Despite all the talk of netroots, modern web capabilities have left grassroots groups stranded. Resistance movements are working with Facebook, Twitter, Google groups, small sites and independently maintained email lists. These are useful but insufficient. They lack any real infrastructure for inter-organizational collaboration, and facilities available for the individual to assemble resources are themselves scattered among many calendars, many URLs, and many messages in the inbox. The signal-to-noise ratio is quite low.
+The world has moved on to dynamic, user-centered, mobile-friendly apps. But the work to develop these is often beyond the scope of groups depending on volunteer support, which leaves grass roots groups at a disadvantage. They must either pony up for hosted capabilities which can be too expensive or rely on donated IT time which often leads to one-off, poorly maintained solutions.
 
-The world has moved on to dynamic, user-centered, mobile-friendly apps, and  The work to develop these is often beyond the scope of groups depending on volunteer support. This leaves grass roots groups at a disadvantage. They must either pony up for hosted capabilities or rely on donated IT time, the latter tending to lead to one-off, poorly maintained solutions.
+Then there is the issue of big data analytics, which the oligarchy has effectively deployed for their own, often unsavory uses.  It would be wonderful if grass roots groups could develop this capability for more democratic goals. Unfortunately, that is totally out of reach for small, mostly volunteer, non-networked groups.
 
-Then, there is the issue of big data analytics, which the oligarchy has effectively deployed for their own, often unsavory, purposes.  It would be wonderful if grass roots groups could develop this capability for more democratic purposes. Unfortunately, It is totally out of reach of small, mostly volunteer, un-networked groups.
-
-Finally, we are still suffering under the fallacy of scarce resources. It is wrong for progressive groups to compete for email addresses and dollars. Doing so undermines grass roots activism. Rather than competing, groups should be offering mutual support. Consider this knock-knock story:
+Finally, the progressive efforts compromise their own usefulness by competing with other such groups for the attention, email addresses, and dollars of the activist.  Doing so undermines grass roots activism. Consider this knock-knock story:
 
 *   Tuesday: Knock, knock. _Do you care about clean lakes? Would you sign this petition to address pesticide runoff. Could you please donate $20, $50, $80 to save the Lakes?_
 *   Wednesday: Knock, knock: _Do you care about the honeybees? Would you sign this petition to control the use of these chemicals. Could you please donate $20, $50, $80 to save the bees?_
@@ -68,35 +60,40 @@ Finally, we are still suffering under the fallacy of scarce resources. It is wro
 
 Many people care about all of these things along with a host of others but have little to give and want to plan their gifts as well as their engagements carefully.
 
-This way of doing business is adequate at best only as a last resort and when the population is passive and unorganized. But in the current environment, people are desperate to organize, desperate to engage more fully, desperate to have their energy (including money) put to effective use. How can signing those petitions and being deluged with more hectoring email help us take meaningful action?
+Competing often results in a refusal to share resources. Some national groups will not even share with their state and local chapters. If a person joins a national progressive group, she would logically assume she would be tied in (either by default or by opt-in) with the local chapter. But, surprisingly, that may not be the case.
 
- What is worse, some national groups will not share information with their state and local chapters. If a person joins a national progressive group, she would logically assume she would be tied in with the local chapter. But, surprisingly, that may not be the case. At least one national group will not release its membership roles to the local, even on an opt-in basis.
-
- This is a failed model.
+The above practices may have made more sense when the population was passive and unorganized. But things are different now. People are desperate to organize, desperate to engage more fully, desperate to have their energy (including money) put to effective use.  Rather than competing, groups should be offering mutual support.
 
 ## The unrealized power of the grassroots network <a name = "grassroots_network" />
 People have risen in protest many times over the last decade in response to attacks on people's safety and well-being. the Black Lives Matter movements and The Wisconsin resistance movements of 2011 are two examples.  Many have proven effective for at least a while, some are still active, all have left a legacy of possibilities.
 
-Right now, the call to resistance is massive. People are mobilized.  What we need is to organize by building on what we've learned so far. Networked grassroots organizing is the best approach.
+Right now, the call to resistance is massive. People are mobilized.  What we need is to organize by building on what we've learned so far. Additionally, we need to reclaim the power of the internet. Networking grassroots entities is the key to successful progressive change.
 
-#### The importance of the "home" group <a name = "home_group" />
-A home group is crucial to a well-networked grassroots movement. It should be small enough to provide a sense of community and belonging, and it should be large enough to sustain itself. It should offer participants opportunities to engage according to interests, skills, and availability, and it should nurture leadership.
+#### The importance of the "home" group
+The home group is crucial to a well-networked grassroots movement. It should be small enough to provide a sense of community and belonging and large enough to be sustainable. It should be a reservoir of talent and energy to support the activist goals of its members and offer them opportunities to engage according to interests, skills, and availability.
 
-Effective resistance requires action at local, district, and state levels as well as at the national level. For that to work, the home group must operate at the local or at least regional level. Resistance also requires action on a fairly large number of issues. An individual activist should ideally be able to find support for issues she cares most about through the networked home group. rather than having to spread herself out across a multitude of non-networked groups.
+It shouuld be able to accommodate initiatives on multiple issues accoring to the interests and energy of its members. Referring back to our example, a home group might coneeivably take on redistricting AND clean water AND honeybees. Or it might defer one or more of those if need be to concentrate on more urgent matters. It should support projects that relate directly to the goals of the group and those of the project team.
 
-#### The organizations must collaborate <a name = "org_collaboration" />
-The power of the internet draws from its openness and flexibility. It is resilient, adaptive, and capable of operating at great scale. That is exactly the paradigm we are seeking in grassroots organizing.
+In short, it should feel to the individual activist that participation will contribute to meaningful results.
 
-What we are talking about here is a federated network, a different structure from that of the national group and local affiliates (sometimes poorly integrated, as noted above). Thinking globally and acting locally is possible. Federation gives us the power of numbers hitherto enjoyed only by the national groups but it keeps the focus with the home group.
+#### The organizations must collaborate
 
-  We have argued that it is an essential base for organizing, but without federation, i.e., without being networked with other similar groups, it tends to be ineffective. Even in a small city such as Madison, we have seen any number of new grassroots groups spring up. Some following the Indivisible Guide, others spun up from the ACLU People Power initiative, and some from other sources. That they emerged so rapidly is wonderful, that they have not yet started collaborating effectively is a growing problem. Marches, town halls, letter-writing campaigns could be much more effective with better coordination.
+But the home group must be networked, that is, it must be able to ally with other groups and share events and content.  The old addage "Think globally, act locally" applies here. Effective resistance must address issues at local, district, and state levels as well as at the national level. Networking the home groups is the only way to do this.
 
-Networking the home groups involves identifying allied groups. Perhaps the analog here is "friending". Alliances can be ad hoc based on issues or campaigns or they can be more longstanding. Through these alliances, a network can be built. Allies will need a forum for coordinating actions and sharing resources. They will need a shared calendar. They will also need to share announcements, blog posts, etc. At the same time the network of federated groups should uphold the privacy and consent of its members.
+The power of the internet draws from its openness and flexibility. It is resilient, adaptive, and capable of operating at great scale. That is exactly the paradigm we are seeking in grassroots organizing. Like the internet itself, the network of home groups is a federation of independent entities.
+
+Without being networked, the home group struggles and the membership becomes demoralized. Even in a small city such as Madison, we have seen any number of new grassroots groups spring up. Some following the Indivisible Guide, others spun up from the ACLU People Power initiative, and some from other sources. That they emerged so rapidly is wonderful, that they have not yet started collaborating effectively is a growing problem. Marches, town halls, letter-writing campaigns could be much more effective with better coordination.
+
+Home groups become part of the network by building alliances, either ad hoc or long-standing.  As they do so, their combined force grows. It allows groups to collaborate: to share talent, coordinate events, work together on campaigns and more. The possibilities are numerous.  Obviously, this is a very different model from that of the national group and local affiliates (sometimes poorly integrated, as noted above).
+
+One can imagine differing patterns developing for extended alliance. There are direct relationships whereby each group affilates with one or more others.  Those are useful for specific, usually local actions. To achieve broader reach, though, groups might build alliances by inference as is done with social netowrks. Larger networks can derived from the direct alliances of each group and from the issues it tackles and the kinds of skills it has.
+
+Allied groups will need forums for coordinating actions and sharing resources. They will need a shared calendar. They will also need to share announcements, blog posts, etc. At the same time the network of federated groups should uphold the privacy and consent of its members.
 
 Supporting these capabilities may sound challenging, but what we are talking about here is not that much different from what has already been achieved in collaborative efforts in many other areas such as research, open software development, and open learning systems.
 
-#### Use the consortium model to support big-ticket efforts <a name = "consortium_model" />
-Though we promote the value of the networked home group, we understand the importance of the non-profit organizations that serve progressive interests. We need media and lobbying efforts; we need constitutional lawyers and watchdog groups; we need health and counseling services in our communities. There is an important role for such organizations, and their budgets can be large.
+#### Use the consortium model to support big-ticket efforts
+While this document stresses the primacy of the netowrked home group, it recognizes the importance of non-profit organizations that serve progressive interests. We need media and lobbying efforts; we need constitutional lawyers and watchdog groups; we need health and counseling services in our communities. There is an important role for such organizations, and their budgets can be large.
 
 Where donations are tax deductible there is an incentive for them to appeal directly to the individual.
 
@@ -106,7 +103,7 @@ Nonetheless we believe that an ecosystem, in which activism is based on networke
  need to develop the above better
 ```
 
-#### It ultimately comes down to the individual <a name = "individual" />
+#### It ultimately comes down to the individual
 The individual activist is the one to determine the nature of her engagement: on what issues to focus, how much time to expend, in what capacity. As we have argued, the home group is the best way to support her, but she must be able on her own to tailor her activism according to her needs.
 
  She may want to engage in specific projects through the home group and filter out others. She may want to start a new project and recruit participants. She may want to include in her kit some tools and resources offered outside of her home group.
