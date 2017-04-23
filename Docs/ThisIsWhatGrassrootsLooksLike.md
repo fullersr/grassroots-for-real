@@ -70,21 +70,25 @@ People have risen in protest many times over the last decade in response to atta
 Right now, the call to resistance is massive. People are mobilized.  What we need is to organize by building on what we've learned so far. Additionally, we need to reclaim the power of the internet. Networking grassroots entities is the key to successful progressive change.
 
 #### The importance of the "home" group
-The home group is crucial to a well-networked grassroots movement. It should be small enough to provide a sense of community and belonging, and it should be large enough to sustain itself. It should be a reservoir of talent and energy to sustain each of its members.
+The home group is crucial to a well-networked grassroots movement. It should be small enough to provide a sense of community and belonging and large enough to be sustainable. It should be a reservoir of talent and energy to support the activist goals of its members and offer them opportunities to engage according to interests, skills, and availability.
 
-It should offer participants opportunities to engage according to interests, skills, and availability. It shouuld accommodate initiatives on multiple issues accoring to the interests and energy. Back to our example, a home group might coneeivably take on redistricting AND clean water AND honeybees. Or it might defer one or more of those if need be to concentrate on immigrant rights, healthcare, or racial justice. Issues should ideally prioritized according to the energy of the members and the perceived urgency.
+It shouuld be able to accommodate initiatives on multiple issues accoring to the interests and energy of its members. Referring back to our example, a home group might coneeivably take on redistricting AND clean water AND honeybees. Or it might defer one or more of those if need be to concentrate on more urgent matters. It should support projects that relate directly to the goals of the group and those of the project team.
+
+In short, it should feel to the individual activist that participation will contribute to meaningful results.
 
 #### The organizations must collaborate
 
-But the home group must be networked, that is, it must be able to ally with other groups and share events and content.  Effective resistance must address issues at local, district, and state levels as well as at the national level. Effective networking of home groups is the only way to do this.
+But the home group must be networked, that is, it must be able to ally with other groups and share events and content.  The old addage "Think globally, act locally" applies here. Effective resistance must address issues at local, district, and state levels as well as at the national level. Networking the home groups is the only way to do this.
 
-The power of the internet draws from its openness and flexibility. It is resilient, adaptive, and capable of operating at great scale. That is exactly the paradigm we are seeking in grassroots organizing. Like the internet itself, the network of home groups is a federation of independent entities.  
+The power of the internet draws from its openness and flexibility. It is resilient, adaptive, and capable of operating at great scale. That is exactly the paradigm we are seeking in grassroots organizing. Like the internet itself, the network of home groups is a federation of independent entities.
 
 Without being networked, the home group struggles and the membership becomes demoralized. Even in a small city such as Madison, we have seen any number of new grassroots groups spring up. Some following the Indivisible Guide, others spun up from the ACLU People Power initiative, and some from other sources. That they emerged so rapidly is wonderful, that they have not yet started collaborating effectively is a growing problem. Marches, town halls, letter-writing campaigns could be much more effective with better coordination.
 
-As home groups build alliances, either ad hoc or long-standing, their combined force grows. This might be analogous to friending or following. It allows groups to collaborate: to share talent, coordinate events, work together on campaigns and more. The possibilities are numerous.  Obviously, this is a very different model from that of the national group and local affiliates (sometimes poorly integrated, as noted above).
+Home groups become part of the network by building alliances, either ad hoc or long-standing.  As they do so, their combined force grows. It allows groups to collaborate: to share talent, coordinate events, work together on campaigns and more. The possibilities are numerous.  Obviously, this is a very different model from that of the national group and local affiliates (sometimes poorly integrated, as noted above).
 
-Allies will need a forum for coordinating actions and sharing resources. They will need a shared calendar. They will also need to share announcements, blog posts, etc. At the same time the network of federated groups should uphold the privacy and consent of its members.
+One can imagine differing patterns developing for extended alliance. There are direct relationships whereby each group affilates with one or more others.  Those are useful for specific, usually local actions. To achieve broader reach, though, groups might build alliances by inference as is done with social netowrks. Larger networks can derived from the direct alliances of each group and from the issues it tackles and the kinds of skills it has.
+
+Allied groups will need forums for coordinating actions and sharing resources. They will need a shared calendar. They will also need to share announcements, blog posts, etc. At the same time the network of federated groups should uphold the privacy and consent of its members.
 
 Supporting these capabilities may sound challenging, but what we are talking about here is not that much different from what has already been achieved in collaborative efforts in many other areas such as research, open software development, and open learning systems.
 
