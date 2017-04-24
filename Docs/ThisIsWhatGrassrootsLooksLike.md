@@ -17,7 +17,7 @@ subtitle: **catchy subtitle**
 ------
 
 ## Introduction <a name = "introduction" />
-Events over the course of the last decade and most dramatically over the last 6 months have shown just how vulnerable our democratic institutions have become. Principles we thought reliable are shifting under our feet and melting away like polar ice. Institutions we relied on to support economic stability, education, workers' rights, and environmental protection are being undermined. In short, national and often state governments are tending to work against the interests of the people they are supposed to represent, leaving us to feel isolated and/or under siege. Things seem out of whack.
+Events over the course of the last decade and most dramatically over the last 6 months have shown just how vulnerable our democratic institutions have become. Principles we thought reliable are shifting under our feet and melting away like polar ice. Institutions we relied on to support economic stability, education, workers' rights, and environmental protection are being undermined. In short, national and often state governments are tending to work against the interests of the people they are supposed to represent leaving us to feel isolated and/or under siege. Things seem out of whack.
 
  Right now people are energized in resistance. They want to do something to promote their vision of a just society. The greatest energy is emerging in the grass roots structures.
 
@@ -160,6 +160,9 @@ We should also look at existing portal solutions that provide the user with an i
 .
 
 ## Appendix <a name = "appendix" />
+
+##### Further reading
+1.  http://www.resilience.org/stories/2017-04-21/from-platform-to-open-cooperativism/
 
 #### Technical precedents/Optional starting points.
 
