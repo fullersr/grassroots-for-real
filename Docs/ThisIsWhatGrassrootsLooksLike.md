@@ -33,7 +33,7 @@ The individual activist must be able to engage within and beyond the home group 
 
 When it comes to working with the larger, more expensive efforts, the networked home group could play a role in funding them so that they need not compete with each other but draw from the combined energy of the grassroots groups.
 
-This document argues that volunteer-based, well networked grassroots groups are our best chance for correcting the problems we face. It presents the capabilities we think are essential for success. It  goes on to sketch out the architecture, entity model and APIs to promote interoperability and optimal user control. And it then it explores possible IT approaches to facilitate the growth of a robust grassroots ecosystem.
+This document argues that volunteer-based, well networked grassroots groups are our best chance for correcting the problems we face. It presents the capabilities we think are essential for success. It  goes on to sketch out the architecture, entity model and APIs to promote interoperability and optimal user control. And it then explores possible IT approaches to facilitate the growth of a robust grassroots ecosystem.
 
 ## What's keeping us down? <a name = "failures_of_top_down" />
 Progressive organizations, at least in the USA, have not kept pace with cultural and structural changes. The reasons should be well understood by now.
