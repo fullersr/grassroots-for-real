@@ -95,7 +95,7 @@ Supporting these capabilities may sound challenging, but what we are talking abo
 #### Use the consortium model to support big-ticket efforts
 While this document stresses the primacy of the netowrked home group, it recognizes the importance of non-profit organizations that serve progressive interests. We need media and lobbying efforts; we need constitutional lawyers and watchdog groups; we need health and counseling services in our communities. There is an important role for such organizations, and their budgets can be large.
 
-Where donations are tax deductible there is an incentive for them to appeal directly to the individual. Nonetheless we believe that an ecosystem, in which activism is based on networked home groups can result in a more efficient approach for funding these non-profits. Perhaps the home group and allies could use polling and forum methods to help individual members prioritize their resources. Perhaps also where individuals perceive unneeded competition, redundancies and inefficiencies among the non profits they can use their home group and affiliates to lobby for improved, more responsive behavior.
+Where donations are tax deductible there is an incentive for them to appeal directly to the individual. Nonetheless we believe that an ecosystem that grounds activism in networked home groups can foster a more efficient approach for funding these non-profits. Perhaps the home group and allies could use polling and forum methods to help individual members prioritize their resources. Perhaps also where individuals perceive unneeded competition, redundancies and inefficiencies among the non profits they can use their home group and affiliates to lobby for improved, more responsive behavior.
 
 ```
  need to develop the above better
