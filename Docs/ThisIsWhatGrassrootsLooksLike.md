@@ -109,7 +109,7 @@ The individual activist is the one to determine the nature of her engagement: on
  In all cases she should be getting just the information she wants and needs in order to engage effectively.
 
 ## Setting up the scaffolding: collaborate, borrow, and build <a name = "proposal" />
-We propose a collaboration of IT activists to identify and build out the capabilities needed to support a vibrant grassroots ecosystem. Some of these capabilities exist in other contexts, so often it will be a matter of re-purposing them rather than building them from scratch.
+We propose a collaboration of IT activists to identify and build out the capabilities needed to support a vibrant grassroots ecosystem. Some of these capabilities exist in other contexts. Often it will be a matter of re-purposing them rather than building them from scratch.
 
 
 #### Support for the home group <a name = "org_support" />
