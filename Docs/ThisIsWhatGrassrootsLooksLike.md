@@ -50,9 +50,9 @@ Despite all the talk about the "netroots", modern web capabilities have left gra
 
 The world has moved on to dynamic, user-centered, mobile-friendly apps. But the work to develop these is often beyond the scope of groups depending on volunteer support, which leaves grass roots groups at a disadvantage. They must either pony up for hosted capabilities which can be too expensive or rely on donated IT time which often leads to one-off, poorly maintained solutions.
 
-Then there is the issue of big data analytics, which the oligarchy has effectively deployed for their own, often unsavory uses.  It would be wonderful if grass roots groups could develop this capability for more democratic goals. Unfortunately, that is totally out of reach for small, mostly volunteer, non-networked groups.
+Then there is the issue of big data analytics, which the oligarchy has effectively deployed for their own, often unsavory uses.  It would be wonderful if grass roots groups could develop this capability for more democratic goals. Unfortunately, that is totally out of reach of small, mostly volunteer, non-networked groups.
 
-Finally, the progressive efforts compromise their own usefulness by competing with other such groups for the attention, email addresses, and dollars of the activist.  Doing so undermines grass roots activism. Consider this knock-knock story:
+Finally, progressive efforts often compromise their own usefulness by competing with each other for the attention, email address, and dollars of the activist.  Doing so undermines grass roots activism. Consider this knock-knock story:
 
 *   Tuesday: Knock, knock. _Do you care about clean lakes? Would you sign this petition to address pesticide runoff. Could you please donate $20, $50, $80 to save the Lakes?_
 *   Wednesday: Knock, knock: _Do you care about the honeybees? Would you sign this petition to control the use of these chemicals. Could you please donate $20, $50, $80 to save the bees?_
@@ -65,20 +65,20 @@ Competing often results in a refusal to share resources. Some national groups wi
 The above practices may have made more sense when the population was passive and unorganized. But things are different now. People are desperate to organize, desperate to engage more fully, desperate to have their energy (including money) put to effective use.  Rather than competing, groups should be offering mutual support.
 
 ## The unrealized power of the grassroots network <a name = "grassroots_network" />
-People have risen in protest many times over the last decade in response to attacks on people's safety and well-being. the Black Lives Matter movements and The Wisconsin resistance movements of 2011 are two examples.  Many have proven effective for at least a while, some are still active, all have left a legacy of possibilities.
+People have risen up in protest many times over the last decade in response to attacks on our safety and well-being. the Black Lives Matter movements and The 2011 Wisconsin resistance movement are two examples.  Many have proven effective for at least a while, some are still active, all have left a legacy of possibilities.
 
-Right now, the call to resistance is massive. People are mobilized.  What we need is to organize by building on what we've learned so far. Additionally, we need to reclaim the power of the internet. Networking grassroots entities is the key to successful progressive change.
+Right now, the call to resistance is massive. People are mobilized.  What we need is to organize by building on what other activists have done well and on what other collaborative efforts have shown to be possible. Additionally, we need to reclaim the power of the internet. Networking grassroots entities is the key to successful progressive change.
 
 #### The importance of the "home" group
 The home group is crucial to a well-networked grassroots movement. It should be small enough to provide a sense of community and belonging and large enough to be sustainable. It should be a reservoir of talent and energy to support the activist goals of its members and offer them opportunities to engage according to interests, skills, and availability.
 
-It shouuld be able to accommodate initiatives on multiple issues accoring to the interests and energy of its members. Referring back to our example, a home group might coneeivably take on redistricting AND clean water AND honeybees. Or it might defer one or more of those if need be to concentrate on more urgent matters. It should support projects that relate directly to the goals of the group and those of the project team.
+It shouuld accommodate initiatives on multiple issues accoring to the interests and energy of its members. Referring to our earlier example, a home group might coneeivably take on redistricting AND clean water AND honeybees. Or it might defer one or more of those if need be to concentrate on more urgent matters. It should support projects that relate directly to the goals of the group and those of the project teams.
 
 In short, it should feel to the individual activist that participation will contribute to meaningful results.
 
 #### The organizations must collaborate
 
-But the home group must be networked, that is, it must be able to ally with other groups and share events and content.  The old addage "Think globally, act locally" applies here. Effective resistance must address issues at local, district, and state levels as well as at the national level. Networking the home groups is the only way to do this.
+The home group must be networked, that is, it must be able to ally with other groups and share events and content.  The old addage "Think globally, act locally" applies here. Effective resistance must address issues at local, district, and state levels as well as at the national level. Networking the home groups is the only way to do this.
 
 The power of the internet draws from its openness and flexibility. It is resilient, adaptive, and capable of operating at great scale. That is exactly the paradigm we are seeking in grassroots organizing. Like the internet itself, the network of home groups is a federation of independent entities.
 
@@ -86,25 +86,23 @@ Without being networked, the home group struggles and the membership becomes dem
 
 Home groups become part of the network by building alliances, either ad hoc or long-standing.  As they do so, their combined force grows. It allows groups to collaborate: to share talent, coordinate events, work together on campaigns and more. The possibilities are numerous.  Obviously, this is a very different model from that of the national group and local affiliates (sometimes poorly integrated, as noted above).
 
-One can imagine differing patterns developing for extended alliance. There are direct relationships whereby each group affilates with one or more others.  Those are useful for specific, usually local actions. To achieve broader reach, though, groups might build alliances by inference as is done with social netowrks. Larger networks can derived from the direct alliances of each group and from the issues it tackles and the kinds of skills it has.
+One can imagine differing patterns developing for extended alliance. There are direct relationships whereby each group affilates with one or more others.  Those are useful for specific, usually local actions. To achieve broader reach, though, groups might build alliances by inference as is done with social netowrks. Larger networks can be inferred from the direct alliances of each group and from the issues it tackles and the kinds of skills it has.
 
 Allied groups will need forums for coordinating actions and sharing resources. They will need a shared calendar. They will also need to share announcements, blog posts, etc. At the same time the network of federated groups should uphold the privacy and consent of its members.
 
-Supporting these capabilities may sound challenging, but what we are talking about here is not that much different from what has already been achieved in collaborative efforts in many other areas such as research, open software development, and open learning systems.
+Supporting these capabilities may sound challenging, but what we are talking about here is not that different from what has already been achieved in collaborative efforts in many other areas such as research, open software development, and open learning systems.
 
 #### Use the consortium model to support big-ticket efforts
 While this document stresses the primacy of the netowrked home group, it recognizes the importance of non-profit organizations that serve progressive interests. We need media and lobbying efforts; we need constitutional lawyers and watchdog groups; we need health and counseling services in our communities. There is an important role for such organizations, and their budgets can be large.
 
-Where donations are tax deductible there is an incentive for them to appeal directly to the individual.
-
-Nonetheless we believe that an ecosystem, in which activism is based on networked home groups can coordinate well with these non-profits. Perhaps the home group and allies could use polling and forum methods to help individual members prioritize their resources. Perhaps also where individuals perceive unneeded competition, redundancies and inefficiencies among the non profits they can use their home group and affiliates to lobby for improvement making them more responsive.
+Where donations are tax deductible there is an incentive for them to appeal directly to the individual. Nonetheless we believe that an ecosystem that grounds activism in networked home groups can foster a more efficient approach for funding these non-profits. Perhaps the home group and allies could use polling and forum methods to help individual members prioritize their resources. Perhaps also where individuals perceive unneeded competition, redundancies and inefficiencies among the non profits they can use their home group and affiliates to lobby for improved, more responsive behavior.
 
 ```
  need to develop the above better
 ```
 
 #### It ultimately comes down to the individual
-The individual activist is the one to determine the nature of her engagement: on what issues to focus, how much time to expend, in what capacity. As we have argued, the home group is the best way to support her, but she must be able on her own to tailor her activism according to her needs.
+The individual activist is the one to determine the nature of her engagement: on what issues to focus, how much time to expend, and in what capacity. As we have argued, the home group is the best way to support her, but she must be able to tailor her activism according to her needs.
 
  She may want to engage in specific projects through the home group and filter out others. She may want to start a new project and recruit participants. She may want to include in her kit some tools and resources offered outside of her home group.
 
