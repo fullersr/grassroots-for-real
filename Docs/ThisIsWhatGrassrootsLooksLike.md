@@ -143,7 +143,6 @@ Learning technology efforts may provide a starting point here too. One branch of
 
 We should also look at existing portal solutions that provide the user with an informative dashboard that can be tailored to her needs. Apereo uPortal is one such
 
-
 ## Architectural Considerations <a name = "architecture" />
 
 ```
