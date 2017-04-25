@@ -163,6 +163,7 @@ We should also look at existing portal solutions that provide the user with an i
 
 ##### Further reading
 1.  http://www.resilience.org/stories/2017-04-21/from-platform-to-open-cooperativism/
+1.  Land, Molly Beutz. "Networked Activism." Harvard Human Rights Journal 22 (September 28, 2009): 40.
 
 #### Technical precedents/Optional starting points.
 
