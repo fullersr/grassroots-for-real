@@ -46,13 +46,15 @@ The changes to the economy and to common forms of social interaction have loosen
 
 So, individuals or stand-alone groups working for democratic change fight in isolation with scarce resources against fabulously well-endowed superPACs and national parties. At the risk of oversimplification, the grass roots is in a battle with the oligarchy for the soul of the country.
 
-Despite all the talk about the "netroots", modern web capabilities have left grassroots groups stranded. The internet is less open these days, but it still offers a solution, and grass roots groups have yet to make good use of it. Resistance movements are working with Facebook, Twitter, Google groups, small sites and independently maintained email lists. These are useful but insufficient. They lack any real infrastructure for inter-organizational collaboration. Facilities available for the individual to assemble resources are themselves scattered among many calendars, many URLs, and many messages in the inbox.
+Despite all the talk about "netroots", modern web capabilities have left grassroots groups stranded. The internet is less open these days, but it still offers a solution, and grass roots groups have yet to make good use of it. Resistance movements are working with Facebook, Twitter, Google groups, small sites and independently maintained email lists. These are useful but insufficient. They lack any real infrastructure for inter-organizational collaboration. Facilities available for the individual to assemble resources are themselves scattered among many calendars, many URLs, and many messages in the inbox.
 
 The world has moved on to dynamic, user-centered, mobile-friendly apps. But the work to develop these is often beyond the scope of groups depending on volunteer support, which leaves grass roots groups at a disadvantage. They must either pony up for hosted capabilities which can be too expensive or rely on donated IT time which often leads to one-off, poorly maintained solutions.
 
 Then there is the issue of big data analytics, which the oligarchy has effectively deployed for their own, often unsavory uses.  It would be wonderful if grass roots groups could develop this capability for more democratic goals. Unfortunately, that is totally out of reach of small, mostly volunteer, non-networked groups.
 
-Finally, progressive efforts often compromise their own usefulness by competing with each other for the attention, email address, and dollars of the activist.  Doing so undermines grass roots activism. Consider this knock-knock story:
+Finally, progressive efforts often compromise their own usefulness by competing with each other for the attention, email address, and dollars of the activist.  Molly Beutz  Land explains the trend toward professional activism (\[ref\] )
+
+But competition can undermine grass roots activism. Consider this knock-knock story:
 
 *   Tuesday: Knock, knock. _Do you care about clean lakes? Would you sign this petition to address pesticide runoff. Could you please donate $20, $50, $80 to save the Lakes?_
 *   Wednesday: Knock, knock: _Do you care about the honeybees? Would you sign this petition to control the use of these chemicals. Could you please donate $20, $50, $80 to save the bees?_
@@ -60,9 +62,9 @@ Finally, progressive efforts often compromise their own usefulness by competing 
 
 Many people care about all of these things along with a host of others but have little to give and want to plan their gifts as well as their engagements carefully.
 
-Competing often results in a refusal to share resources. Some national groups will not even share with their state and local chapters. If a person joins a national progressive group, she would logically assume she would be tied in (either by default or by opt-in) with the local chapter. But, surprisingly, that may not be the case.
+Competitition often results in a refusal to share resources. Some national groups will not even share with their state and local chapters. If a person joins a national progressive group, she would logically assume she would be tied in (either by default or by opt-in) with the local chapter. But, surprisingly, that may not be the case.
 
-The above practices may have made more sense when the population was passive and unorganized. But things are different now. People are desperate to organize, desperate to engage more fully, desperate to have their energy (including money) put to effective use.  Rather than competing, groups should be offering mutual support.
+Such tactics may have made more sense when the population was passive and unorganized. But things are different now. People are desperate to organize, desperate to engage more fully, desperate to have their energy (including money) put to effective use.  Rather than competing, groups should be offering mutual support.
 
 ## The unrealized power of the grassroots network <a name = "grassroots_network" />
 People have risen up in protest many times over the last decade in response to attacks on our safety and well-being. the Black Lives Matter movements and The 2011 Wisconsin resistance movement are two examples.  Many have proven effective for at least a while, some are still active, all have left a legacy of possibilities.
