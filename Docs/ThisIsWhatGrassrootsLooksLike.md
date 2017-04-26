@@ -52,7 +52,10 @@ The world has moved on to dynamic, user-centered, mobile-friendly apps. But the 
 
 Then there is the issue of big data analytics, which the oligarchy has effectively deployed for their own, often unsavory uses.  It would be wonderful if grass roots groups could develop this capability for more democratic goals. Unfortunately, that is totally out of reach of small, mostly volunteer, non-networked groups.
 
-Finally, progressive efforts often compromise their own usefulness by competing with each other for the attention, email address, and dollars of the activist.  Molly Beutz  Land explains the trend toward professional activism (\[ref\] )
+Finally, progressive efforts often compromise their own usefulness by competing with each other for the attention, email address, and dollars of the activist.
+
+``` reference to Land on professional activism
+```
 
 But competition can undermine grass roots activism. Consider this knock-knock story:
 
