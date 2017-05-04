@@ -17,7 +17,7 @@ subtitle: **catchy subtitle**
 ## Introduction <a name = "introduction" />
 Events over the course of the last decade and most dramatically over the last 6 months have shown just how vulnerable our democratic institutions have become. Principles we thought reliable are shifting under our feet and melting away like polar ice. Institutions we relied on to support economic stability, education, workers' rights, and environmental protection are being undermined. In short, national and often state governments are tending to work against the interests of the people they are supposed to represent leaving us to feel isolated and/or under siege. Things seem out of whack.
 
- Right now people are energized in resistance. They want to do something to promote their vision of a just society. The greatest energy is emerging in the grass roots structures.
+ Right now people are energized in resistance. They want to do something to promote their vision of a just society. The greatest energy is emerging in the grassroots structures.
 
   It has become clear that neither of the two parties is capable of nurturing this kind of energy. In fact, they have fairly often proven themselves more of a hindrance. And while the issue-focused national and state efforts such as ACLU and Planned Parenthood are important allies, they are not by themselves sufficient. More importantly they do not provide the necessary forum to organize and coordinate local responses.
 
@@ -42,13 +42,13 @@ The changes to the economy and to common forms of social interaction have loosen
 *   The traditional two parties will probably continue to dominate our electoral process, but they have largely failed to produce candidates who truly represent the interests of the people. In fact, the two party system consistently tends to impede rather than foster progressive change
 *   Individuals no longer have a common fund of reliable, useful information. Important information is too often lost amidst the spinning and pontificating.
 
-So, individuals or stand-alone groups working for democratic change fight in isolation with scarce resources against fabulously well-endowed superPACs and national parties. At the risk of oversimplification, the grass roots is in a battle with the oligarchy for the soul of the country.
+So, individuals or stand-alone groups working for democratic change fight in isolation with scarce resources against fabulously well-endowed superPACs and national parties. At the risk of oversimplification, the grassroots is in a battle with the oligarchy for the soul of the country.
 
-Despite all the talk about "netroots", modern web capabilities have left grassroots groups stranded. The internet is less open these days, but it still offers a solution, and grass roots groups have yet to make good use of it. Resistance movements are working with Facebook, Twitter, Google groups, small sites, and independently maintained email lists. These are useful but insufficient. They lack any real infrastructure for inter-organizational collaboration. Facilities available for the individual to assemble resources are themselves scattered among many calendars, many URLs, and many messages in the inbox.
+Despite all the talk about "netroots", modern web capabilities have left grassroots groups stranded. The internet is less open these days, but it still offers a solution, and grassroots groups have yet to make good use of it. Resistance movements are working with Facebook, Twitter, Google groups, small sites, and independently maintained email lists. These are useful but insufficient. They lack any real infrastructure for inter-organizational collaboration. Facilities available for the individual to assemble resources are themselves scattered among many calendars, many URLs, and many messages in the inbox.
 
-The world has moved on to dynamic, user-centered, mobile-friendly apps. The work to develop these is often beyond the scope of groups depending on volunteer support, which leaves grass roots groups at a disadvantage. They must either pony up for hosted capabilities or rely on donated IT time which often leads to one-off, poorly maintained solutions.
+The world has moved on to dynamic, user-centered, mobile-friendly apps. The work to develop these is often beyond the scope of groups depending on volunteer support, which leaves grassroots groups at a disadvantage. They must either pony up for hosted capabilities or rely on donated IT time which often leads to one-off, poorly maintained solutions.
 
-Then there is the issue of big data analytics, which the oligarchy has effectively deployed for their own, often unsavory uses.  It would be wonderful if grass roots groups could develop this capability for more democratic goals. Unfortunately, that is totally out of reach of small, mostly volunteer, non-networked groups.
+Then there is the issue of big data analytics, which the oligarchy has effectively deployed for their own, often unsavory uses.  It would be wonderful if grassroots groups could develop this capability for more democratic goals. Unfortunately, that is totally out of reach of small, mostly volunteer, non-networked groups.
 
 Finally, progressive efforts often compromise their own usefulness by competing with each other for the attention, email address, and dollars of the activist.
 
@@ -56,7 +56,7 @@ Finally, progressive efforts often compromise their own usefulness by competing 
 reference to Land on professional activism
 ```
 
-But competition can undermine grass roots activism. Consider this knock-knock story:
+But competition can undermine grassroots activism. Consider this knock-knock story:
 
 *   Tuesday: Knock, knock. _Do you care about clean lakes? Would you sign this petition to address pesticide runoff. Could you please donate $20, $50, $80 to save the Lakes?_
 *   Wednesday: Knock, knock: _Do you care about the honeybees? Would you sign this petition to control the use of harmful pesticides. Could you please donate $20, $50, $80 to save the bees?_
