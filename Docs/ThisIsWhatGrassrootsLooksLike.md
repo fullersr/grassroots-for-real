@@ -168,6 +168,7 @@ Note: Take into account that some people are uncomfortable with new tech and esp
 ##### Further reading
 1.  http://www.resilience.org/stories/2017-04-21/from-platform-to-open-cooperativism/
 1.  Land, Molly Beutz. "Networked Activism." Harvard Human Rights Journal 22 (September 28, 2009): 40.
+1.  http://commonstransition.org/ 
 
 #### Technical precedents/Optional starting points.
 
