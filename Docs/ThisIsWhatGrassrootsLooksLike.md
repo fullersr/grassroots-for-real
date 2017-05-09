@@ -175,3 +175,5 @@ Current efforts to support grassroots
 *   https://github.com/november9/wecansavedemocracy
 *   Civi.workks https://civ.works/
 
+#### Activist sites worth following
+1.  https://www.takebackyourstate.com/#/

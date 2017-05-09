@@ -12,5 +12,4 @@
 ### General Capabilities
 
 
-### Use-case specific capabilities
-  
+### Use case-specific capabilities
