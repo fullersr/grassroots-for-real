@@ -170,9 +170,10 @@ Note: Take into account that some people are uncomfortable with new tech and esp
 1.  Land, Molly Beutz. "Networked Activism." Harvard Human Rights Journal 22 (September 28, 2009): 40.
 1.  http://commonstransition.org/
 1.  http://journals.sagepub.com/doi/abs/10.1177/0267323111434452
+1.  http://journals.sagepub.com/doi/abs/10.1177/0143831X98194005
+1.  https://transitionnetwork.org/about-the-movement/international-hubs-circle/
 
-
-#### Technical precedents/Optional starting points.
+#### Precedents/Optional starting points.
 
 Current efforts to support grassroots
 *   https://github.com/november9/wecansavedemocracy
